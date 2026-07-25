@@ -20,6 +20,6 @@ Arte: Aseprite, Krita, Clip Studio Paint
 Outros: Git, GitHub, MySQL
 
 📫 Como falar comigo
-LinkedIn: [(adicione o link aqui)](https://www.linkedin.com/in/anya-ramos-de-sousa-andrade-7411b7424/)
+LinkedIn: [(https://www.linkedin.com/in/anya-ramos-de-sousa-andrade-7411b7424/)]
 E-mail: meniramos3046@gmail.com
 Celular: (84) 988531253
